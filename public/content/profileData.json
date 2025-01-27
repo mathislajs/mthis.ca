@@ -1,0 +1,256 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "mathislajs",
+    "displayName": "mthis",
+    "profession": null,
+    "location": "Quebec, Canada",
+    "pronouns": null,
+    "byline": "Quebec, Canada",
+    "website": "https://mthis.ca/",
+    "websiteURL": "https://mthis.ca/",
+    "about": "👋",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Exhibitions",
+      "Speaking",
+      "Awards",
+      "Work Experience",
+      "Projects",
+      "Writing",
+      "Features",
+      "Volunteering",
+      "Side Projects",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "bXBQF4yKuOEnYM4nWBpQ",
+      "year": "2024",
+      "heading": "Co-Founder at Unnamed Engineering",
+      "url": "https://unnamed.engineering/",
+      "collaborators": [],
+      "description": "A global product studio made up of four teenage developers, united by a passion for creating tools and products that make developers' everyday tasks more fun, efficient, and productive.",
+      "attachments": [],
+      "type": "project",
+      "title": "Co-Founder",
+      "company": "Unnamed Engineering"
+    }
+  ],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [
+    {
+      "id": "DKbWH7tIFPHF0sX1Xx6n",
+      "year": "2023",
+      "heading": "Launch Week 8 Hackathon - Most Technically Impressive from Supabase",
+      "url": "https://supabase.com/blog/launch-week-8-hackathon-winners#most-technically-impressive",
+      "collaborators": [
+        {
+          "displayName": "Ethan",
+          "profilePhoto": null,
+          "profileURL": "https://read.cv/crscd"
+        },
+        {
+          "displayName": "Jack Merrill",
+          "profilePhoto": "/content/collaborators/jackmerrill.jpg",
+          "profileURL": "https://read.cv/jackmerrill"
+        },
+        {
+          "displayName": "Alexander Hyman",
+          "profilePhoto": "/content/collaborators/allium.jpg",
+          "profileURL": "https://read.cv/allium"
+        }
+      ],
+      "description": "Openbin is a Pastebin-inspired tool designed for command line enthusiasts, offering both a fast, user-friendly web editor and a streamlined CLI for maximum efficiency. We crafted the core Openbin platform in just 8 days, with 215+ commits, bringing it from concept to reality.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1439,
+          "height": 800,
+          "url": "/content/media/Launch-Week-8-Hackathon-Most-Technically-Impressive-from-Supabase.png"
+        }
+      ],
+      "type": "award",
+      "title": "Launch Week 8 Hackathon - Most Technically Impressive",
+      "presenter": "Supabase"
+    }
+  ],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "ui2zYbNrmx9iKB7y9rxU",
+      "year": "2024 — Now",
+      "heading": "Founder & Product Lead at Lapse",
+      "url": "https://lapse.uno/",
+      "collaborators": [],
+      "description": "Store your images using a comprehensive array of advanced image processing capabilities.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Founder & Product Lead",
+      "company": "Lapse",
+      "location": ""
+    },
+    {
+      "id": "aJh8nVIGiCrLiHndPwjk",
+      "year": "2024 — 2024",
+      "heading": "Customer Support Lead at Metrik",
+      "url": "https://github.com/metrik-tech/metrik-open",
+      "collaborators": [],
+      "description": "Automated operations toolkit for Roblox game developers.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Customer Support Lead",
+      "company": "Metrik",
+      "location": "Remote"
+    },
+    {
+      "id": "gzYsjadD33anP4izb9wj",
+      "year": "2023 — 2023",
+      "heading": "Community at circle labs (now Shapes, Inc.)",
+      "url": "https://circlelabs.xyz/",
+      "collaborators": [],
+      "description": "A platform that allows everyone to create their own AI-powered virtual characters. Over 200,000 community members.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Community",
+      "company": "circle labs (now Shapes, Inc.)",
+      "location": "Remote"
+    }
+  ],
+  "volunteering": [],
+  "education": [],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "1Tpes13en7gvxoOTJo6n",
+      "platform": "Email",
+      "handle": "email@mthis.ca",
+      "url": "mailto:email@mthis.ca"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "DKbWH7tIFPHF0sX1Xx6n",
+          "year": "2023",
+          "heading": "Launch Week 8 Hackathon - Most Technically Impressive from Supabase",
+          "url": "https://supabase.com/blog/launch-week-8-hackathon-winners#most-technically-impressive",
+          "collaborators": [
+            {
+              "displayName": "Ethan",
+              "profilePhoto": null,
+              "profileURL": "https://read.cv/crscd"
+            },
+            {
+              "displayName": "Jack Merrill",
+              "profilePhoto": "/content/collaborators/jackmerrill.jpg",
+              "profileURL": "https://read.cv/jackmerrill"
+            },
+            {
+              "displayName": "Alexander Hyman",
+              "profilePhoto": "/content/collaborators/allium.jpg",
+              "profileURL": "https://read.cv/allium"
+            }
+          ],
+          "description": "Openbin is a Pastebin-inspired tool designed for command line enthusiasts, offering both a fast, user-friendly web editor and a streamlined CLI for maximum efficiency. We crafted the core Openbin platform in just 8 days, with 215+ commits, bringing it from concept to reality.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1439,
+              "height": 800,
+              "url": "/content/media/Launch-Week-8-Hackathon-Most-Technically-Impressive-from-Supabase.png"
+            }
+          ],
+          "type": "award",
+          "title": "Launch Week 8 Hackathon - Most Technically Impressive",
+          "presenter": "Supabase"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "ui2zYbNrmx9iKB7y9rxU",
+          "year": "2024 — Now",
+          "heading": "Founder & Product Lead at Lapse",
+          "url": "https://lapse.uno/",
+          "collaborators": [],
+          "description": "Store your images using a comprehensive array of advanced image processing capabilities.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Founder & Product Lead",
+          "company": "Lapse",
+          "location": ""
+        },
+        {
+          "id": "aJh8nVIGiCrLiHndPwjk",
+          "year": "2024 — 2024",
+          "heading": "Customer Support Lead at Metrik",
+          "url": "https://github.com/metrik-tech/metrik-open",
+          "collaborators": [],
+          "description": "Automated operations toolkit for Roblox game developers.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Customer Support Lead",
+          "company": "Metrik",
+          "location": "Remote"
+        },
+        {
+          "id": "gzYsjadD33anP4izb9wj",
+          "year": "2023 — 2023",
+          "heading": "Community at circle labs (now Shapes, Inc.)",
+          "url": "https://circlelabs.xyz/",
+          "collaborators": [],
+          "description": "A platform that allows everyone to create their own AI-powered virtual characters. Over 200,000 community members.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Community",
+          "company": "circle labs (now Shapes, Inc.)",
+          "location": "Remote"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "bXBQF4yKuOEnYM4nWBpQ",
+          "year": "2024",
+          "heading": "Co-Founder at Unnamed Engineering",
+          "url": "https://unnamed.engineering/",
+          "collaborators": [],
+          "description": "A global product studio made up of four teenage developers, united by a passion for creating tools and products that make developers' everyday tasks more fun, efficient, and productive.",
+          "attachments": [],
+          "type": "project",
+          "title": "Co-Founder",
+          "company": "Unnamed Engineering"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "1Tpes13en7gvxoOTJo6n",
+          "platform": "Email",
+          "handle": "email@mthis.ca",
+          "url": "mailto:email@mthis.ca"
+        }
+      ]
+    }
+  ]
+}
