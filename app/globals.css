@@ -12,12 +12,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #222;
-    --grey1: #eee;
-    --grey2: #bbb;
+    --background: #F7F8FA;
+    --grey1: #000;
+    --grey2: #5b5a5a;
     --grey3: #888;
-    --wash1: #4E4E4E;
-    --wash2: #383838;
+    --wash1: #c9c8c8;
+    --wash2: #e2e0e0;
     --transparentBorder: rgb(255 255 255 / 0.1);
   }
 }
